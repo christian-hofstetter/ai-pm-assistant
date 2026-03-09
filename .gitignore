@@ -1,0 +1,17 @@
+# Environment variables (contains PAT tokens)
+.env
+.env.local
+
+# Personal deliverables (generated during workshop)
+deliverables/*.md
+!deliverables/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MCP config (contains local paths, created from mcp.json.example)
+.kiro/settings/mcp.json
+
+# Skills (installed locally per participant)
+.kiro/skills/

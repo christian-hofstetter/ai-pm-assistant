@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mcp-atlassian": {
+      "command": "uvx",
+      "args": ["mcp-atlassian", "--env-file", ".env", "--read-only"],
+      "env": {},
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
