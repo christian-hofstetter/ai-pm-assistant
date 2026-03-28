@@ -1,6 +1,6 @@
 # AI-Powered Product Management Workshop
 
-A hands-on half-day workshop (~3 hours including breaks) for Product Owners and Scrum Masters.
+A hands-on half-day workshop (~3.5 hours including breaks) for Product Owners and Scrum Masters.
 Learn to use AI + proven PM frameworks to make better product decisions — faster.
 
 Powered by the [PM Skills Marketplace](https://github.com/phuryn/pm-skills): 65 skills, 36 workflows, 8 plugins covering discovery, strategy, execution, go-to-market, and growth.
@@ -20,7 +20,8 @@ Budget 20–30 minutes. You'll need Kiro IDE installed and PM Skills copied into
 | — | Break ☕ | 15 min |
 | 3 | [Your Backlog Meets AI](exercises/03-backlog-meets-ai.md) — Analyze and improve your backlog (with Jira if connected) | 40 min |
 | 4 | [Pick Your Adventure](exercises/04-pick-your-adventure.md) — Choose exercises that match your needs | 35 min |
-| 5 | Show & Tell — Share what you created, discuss takeaways | 15 min |
+| 5 | [Scrum Master Deep Dive](exercises/05-scrum-master-deep-dive.md) — Sprint analytics, velocity forecasting, retro analysis | 30 min |
+| 6 | Show & Tell — Share what you created, discuss takeaways | 15 min |
 
 ## Project Structure
 

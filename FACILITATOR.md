@@ -2,7 +2,7 @@
 
 Notes for running the workshop. Not included in participant instructions.
 
-## Agenda (3h total)
+## Agenda (3.5h total)
 
 | Time | Block | What to do |
 |------|-------|------------|
@@ -12,8 +12,9 @@ Notes for running the workshop. Not included in participant instructions.
 | 1:20 | Break | 15 minutes |
 | 1:35 | Block 3 | Backlog + Jira exercises |
 | 2:15 | Block 4 | Pick your adventure (free exploration) |
-| 2:50 | Block 5 | Show & tell, takeaways |
-| 3:05 | End | |
+| 2:50 | Block 5 | Scrum Master deep dive (SMs) / continue Block 4 (POs) |
+| 3:20 | Block 6 | Show & tell, takeaways |
+| 3:35 | End | |
 
 ## Before the workshop
 
@@ -60,7 +61,16 @@ Good time to help anyone with Jira connection issues.
   - SMs → start with F (Stakeholder Map) or H (Pre-Mortem)
 - Encourage pairs from the same team to do complementary exercises
 
-## Block 5: Show & Tell
+## Block 5: Scrum Master Deep Dive
+
+- This block uses the [borghei/Claude-Skills Scrum Master skill](https://agentskills.so/skills/borghei-claude-skills-scrum-masterquestions) — a separate skill from the PM Skills collection
+- SMs should install it at the start of the block (takes ~2 min via Kiro chat)
+- POs who finish Block 4 early can continue exploring, or join the SM exercises if curious
+- If someone has real sprint data or retro notes, encourage them to use those instead of simulated data
+- The velocity forecast exercise often sparks good discussion about over-commitment — lean into that
+- The team maturity assessment (Tuckman stages) can be sensitive — remind participants it's a coaching tool, not a judgment
+
+## Block 6: Show & Tell
 
 - Ask 3-4 volunteers (or pick them)
 - 2 minutes each: what did you create, one insight you're taking back

@@ -186,6 +186,8 @@ Save to deliverables/launch-plan.md
 
 ## Done?
 
-Head back to the group for Block 5: Show & Tell.
+**Scrum Masters:** → Move to [05-scrum-master-deep-dive.md](05-scrum-master-deep-dive.md) for a dedicated sprint analytics and coaching block.
+
+**Everyone else:** Head back to the group for Block 6: Show & Tell.
 
 Bring your favorite deliverable — you'll have 2 minutes to share what you created and one insight you're taking back to your team.
