@@ -1,5 +1,6 @@
 ---
 inclusion: auto
+description: Guidelines and rules for the hands-on PM workshop sessions
 ---
 
 # Workshop Guidelines

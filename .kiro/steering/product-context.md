@@ -1,5 +1,6 @@
 ---
 inclusion: auto
+description: Product and team context loading instructions for PM exercises
 ---
 
 # Product & Team Context
